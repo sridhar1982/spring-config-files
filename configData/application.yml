@@ -26,7 +26,7 @@ spring:
 words: reasonable,leaky,suspicious,ordinary,unlikely
 
 ---
-spring:
-  profiles: noun
-words: another,one,here,two
+#spring:
+#  profiles: noun
+#words: another,one,here,two
   
