@@ -21,12 +21,12 @@ spring:
 words: a,the
 
 ---
-#spring:
-#  profiles: adjective
-#words: reasonable,leaky,suspicious,ordinary,unlikely
+spring:
+  profiles: adjective
+words: reasonable,leaky,suspicious,ordinary,unlikely
 
 ---
-spring:
-  profiles: noun
-words: five,six,seven
+#spring:
+#  profiles: noun
+#ords: five,six,seven
   
